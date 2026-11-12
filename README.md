@@ -1,2 +1,2 @@
-# CEPEO-ho-ho-ho
+# CEPEO-Ho-Ho-Ho
 CEPEO Secret Santa
